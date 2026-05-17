@@ -59,9 +59,8 @@ export default function LoginScreen() {
       >
         {/* Logo area */}
         <View style={styles.logoArea}>
-          <Text style={styles.logoEmoji}>🚗</Text>
           <Text style={styles.logoTitle}>Car App</Text>
-          <Text style={styles.logoSub}>Discover your next ride</Text>
+          <Text style={styles.logoSub}>Choose Your Favourite Car</Text>
         </View>
 
         <View style={styles.card}>
